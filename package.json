@@ -1,0 +1,20 @@
+{
+  "name": "@baliga-lab/inchlib.js",
+  "version": "1.0.0",
+  "description": "InCHlib.js Baliga Lab version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "kinetic": "^5.2.0"
+  },
+  "keywords": [
+    "InCHlib.js",
+    "heatmap",
+    "interactive"
+  ],
+  "author": "Wei-ju Wu",
+  "license": "ISC"
+}
